@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat quo, modi rerum tempora error laudantium minima quis! Doloribus quam totam dignissimos, eveniet sunt asperiores voluptate reiciendis, odit tenetur numquam consectetur. Dolorem consequuntur ab sint corporis, aliquid optio veniam. Adipisci beatae voluptatum corrupti? Odit vel placeat facilis. Soluta enim nobis quos, rerum eius, voluptas officia laboriosam veritatis consectetur eveniet voluptatum eum! Consequatur consectetur rem accusantium accusamus id totam eaque numquam? Accusamus explicabo exercitationem impedit est iure magni voluptatibus placeat quam. Quibusdam perspiciatis ducimus debitis at adipisci quo velit voluptate iusto odit laborum consequuntur unde, explicabo fugit repellat, suscipit libero eveniet quidem?",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 players",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat quo, modi rerum tempora error laudantium minima quis! Doloribus quam totam dignissimos, eveniet sunt asperiores voluptate reiciendis, odit tenetur numquam consectetur. Dolorem consequuntur ab sint corporis, aliquid optio veniam. Adipisci beatae voluptatum corrupti? Odit vel placeat facilis. Soluta enim nobis quos, rerum eius, voluptas officia laboriosam veritatis consectetur eveniet voluptatum eum! Consequatur consectetur rem accusantium accusamus id totam eaque numquam? Accusamus explicabo exercitationem impedit est iure magni voluptatibus placeat quam. Quibusdam perspiciatis ducimus debitis at adipisci quo velit voluptate iusto odit laborum consequuntur unde, explicabo fugit repellat, suscipit libero eveniet quidem?",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "Teste blog post",
+      "body": "Lorem ipsum",
+      "tags": [
+        "aaa",
+        "python"
+      ],
+      "id": 3
+    }
+  ]
+}
